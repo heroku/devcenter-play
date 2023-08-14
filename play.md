@@ -132,8 +132,8 @@ We now have the three major components of our app: dependencies in `dependencies
 Create the app on the Cedar stack:
 
     :::term
-    $ heroku create --stack cedar
-    Creating afternoon-frost-273... done, stack is cedar
+    $ heroku create
+    Creating afternoon-frost-273... done, stack is heroku-22
     http://afternoon-frost-273.herokuapp.com/ | git@heroku.com:afternoon-frost-273.git
     Git remote heroku added
 
